@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah-2510&label=Profile%20views&color=0e75b6&style=flat" alt="Akhilesh58" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangow4562" alt="Akhilesh58" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akhilesh58" alt="Akhilesh58" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akhilesh58](https://github.com/Akhilesh58)
 
