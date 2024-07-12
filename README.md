@@ -26,18 +26,6 @@
   <a href="https://www.raspberrypi.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberry pi" width="40" height="40"/>
   </a>
-  <a href="https://www.microchip.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/microchip-technology-1.svg" alt="microchip" width="40" height="40"/>
-  </a>
-  <a href="https://www.st.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/STMicroelectronics_Logo.svg" alt="STMicroelectronics" width="40" height="40"/>
-  </a>
-  <a href="https://www.autodesk.com/products/eagle/overview" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Autodesk_Eagle_logo.svg" alt="Autodesk Eagle" width="40" height="40"/>
-  </a>
-  <a href="https://www.ansys.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/ansys-2.svg" alt="Ansys" width="40" height="40"/>
-  </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
   </a>
