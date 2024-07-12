@@ -36,7 +36,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C programming" width="40" height="40"/>
   </a>
     <a href="https://www.foxbms.org/" target="_blank">
-    <img src="https://www.foxbms.org/images/foxbms_logo.svg" alt="foxBMS" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/24648128?v=" alt="foxBMS" width="40" height="40"/>
   </a>
   <a href="https://www.eclipse.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" alt="Eclipse" width="40" height="40"/>
