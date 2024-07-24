@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akhileshbr40@gmail.com**
 
-- 👨‍💻 To Know more about me https://rangow4562.github.io/
+- 👨‍💻 To Know more about me https://akhilesh58.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
